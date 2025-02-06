@@ -64,11 +64,13 @@ gdp_df = get_gdp_data()
 
 # Set the title that appears at the top of the page.
 '''
-# :earth_americas: GDP dashboard
+# :earth_americas: EQL Sales Dashboard
 
-Browse GDP data from the [World Bank Open Data](https://data.worldbank.org/) website. As you'll
-notice, the data only goes to 2022 right now, and datapoints for certain years are often missing.
-But it's otherwise a great (and did I mention _free_?) source of data.
+EQL is an e-commerce electronics company specializing in the consumer electronics space.
+As a way to reflect on years that changed the baseline of the business, 
+the company wanted to understand what happened with popular item sales in the years 
+of 2019 to 2022 with a thorough analysis and surface any insights to direct where to 
+spend additional resources in the future.
 '''
 
 # Add some spacing
